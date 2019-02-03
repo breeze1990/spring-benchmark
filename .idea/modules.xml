@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simplespringmvc/simplespringmvc.iml" filepath="$PROJECT_DIR$/simplespringmvc/simplespringmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplespringwebflux/simplespringwebflux.iml" filepath="$PROJECT_DIR$/simplespringwebflux/simplespringwebflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springwebbenchmark.iml" filepath="$PROJECT_DIR$/springwebbenchmark.iml" />
+    </modules>
+  </component>
+</project>
